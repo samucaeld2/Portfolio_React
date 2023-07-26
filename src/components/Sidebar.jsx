@@ -1,11 +1,10 @@
 import SocialNetworks from './SocialNetworks';
-
-import Avatar from '../img/perfil1.jpeg';
-
 import '../styles/components/sidebar.sass';
+
 
 import  InformationContainer from "./informationContainer"
 
+import Avatar from '../img/perfil.jpeg';
 
 const Sidebar = () => {
   return (
